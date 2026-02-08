@@ -1,6 +1,6 @@
 # academic-writing-refiner
 
-A [Claude Skill](https://support.anthropic.com/en/articles/claude-skill) for refining academic writing for computer science research papers targeting top-tier venues (NeurIPS, ICLR, ICML, AAAI, IJCAI, ACL, EMNLP, NAACL, CVPR, WWW, KDD, SIGIR, CIKM).
+A [Claude Skill](https://code.claude.com/docs/en/skills) for refining academic writing for computer science research papers targeting top-tier venues (NeurIPS, ICLR, ICML, AAAI, IJCAI, ACL, EMNLP, NAACL, CVPR, WWW, KDD, SIGIR, CIKM).
 
 ## What It Does
 
