@@ -18,7 +18,7 @@ Transforms rough or intermediate academic drafts into polished, publication-read
 2. Open [Claude Settings](https://claude.ai/settings) → **Skills** → **Add Skill**
 3. Upload the `.skill` file
 
-Alternatively, add the `academic-writing-refiner/` folder contents directly to a Claude Project's knowledge.
+Alternatively, add the `academic-writing-refiner/` folder contents directly to `~/.claude/skills/` (All your projects) or `.claude/skills/` (This project only).
 
 ## Usage
 
