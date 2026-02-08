@@ -22,19 +22,16 @@ Alternatively, add the `academic-writing-refiner/` folder contents directly to a
 
 ## Usage
 
-The skill triggers automatically when you ask Claude to refine academic writing:
+You can start with:
 
 ```
-Refine this introduction for my ICML submission: [paste text]
+Refine this introduction for my ICML submission by using the "academic-writing-refiner" skill: [paste text]
 ```
 ```
-Polish this abstract — keep it under 250 words: [paste abstract]
+Help me write a rebuttal for these NeurIPS reviews by using the "academic-writing-refiner" skill: [paste comments]
 ```
 ```
-Help me write a rebuttal for these NeurIPS reviews: [paste comments]
-```
-```
-Light edit only — just fix grammar: [paste text]
+Light edit only — just fix grammar via "academic-writing-refiner" skill: [paste text]
 ```
 
 The output includes refined text (matching your input format), brief notes on substantive changes, and flagged issues it cannot fix.
